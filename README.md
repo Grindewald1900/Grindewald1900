@@ -39,7 +39,6 @@ Now I'm a graduate student of Computer Science
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android, IOT
 - 🌱 I’m currently learning Machine Learning
