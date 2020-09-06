@@ -53,7 +53,10 @@ Now I'm a graduate student of Computer Science
 - 📫 How to reach me: [Grindewald1900](grindewald1504@gmail.com)
 - 😄 Pronouns: ...Mr.Yee
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900/github-readme-stats)
+<!-- add &hide=language to hide certain languages in the chart-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900)](https://github.com/Grindewald1900)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
 
 [home]:Grindewald1900/Grindewald1900
 
