@@ -3,6 +3,8 @@
 </p>  
 
 <p align="left">
+    <a href="" alt="Contributors">
+        <img src="https://visitor-badge.glitch.me/badge?page_id=Grindewald1900.Grindewald1900" /></a>
     <a href="https://github.com/Grindewald1900/Grindewald1900/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/Grindewald1900/Grindewald1900" /></a>
     <a href="https://github.com/Grindewald1900/Grindewald1900/pulse" alt="Activity">
@@ -16,6 +18,7 @@
         <img src="https://img.shields.io/badge/license-MIT-green"
             /></a>
 </p>
+
 
 ### Hi there 👋
 
