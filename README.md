@@ -11,11 +11,11 @@
         <img src="https://img.shields.io/github/commit-activity/m/Grindewald1900/Grindewald1900" /></a>
     <a href="https://circleci.com/gh/Grindewald1900/Grindewald1900/tree/master">
         <img src="https://img.shields.io/circleci/project/github/Grindewald1900/Grindewald1900/master" alt="build status"></a>
-    <a href="https://coveralls.io/github/Grindewald1900/Grindewald1900">
-        <img src="https://img.shields.io/coveralls/github/Grindewald1900/Grindewald1900"
-            alt="coverage"></a>
     <a href="https://github.com/Grindewald1900/Notebook/blob/master/LICENSE.txt">
         <img src="https://img.shields.io/badge/license-MIT-green"
+            /></a> 
+    <a href="https://www.linkedin.com/in/yee-ren-8b63a21a2/">
+        <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
             /></a>
 </p>
 
