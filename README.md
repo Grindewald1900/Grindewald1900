@@ -56,7 +56,7 @@ Now I'm a graduate student of Computer Science
 <!-- add &hide=language to hide certain languages in the chart-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact)](https://github.com/Grindewald1900)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
+[![Github stats](https://github-readme-stats-umber-mu.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
 
 [home]:Grindewald1900/Grindewald1900
 
