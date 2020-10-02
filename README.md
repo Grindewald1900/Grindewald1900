@@ -29,7 +29,7 @@ Now I'm a graduate student of Computer Science
 
 
 ### My Skills ⚡  
-* **Programming language**: Java, C, C#, Python, HTML/CSS, XML, SQL
+* **Programming language**: Java, Kotlin, C, C#, Python, HTML/CSS, XML, SQL
 * **Mobile app development**:  Android, IOS
 * **Frontend designing**: WordPress, Android customized view...
 * **IOT**: Raspberry Pi, Arduino, all kinds of sensors  
@@ -44,10 +44,9 @@ Now I'm a graduate student of Computer Science
 
 
 
-- 🔭 I’m currently working on Android, IOT
+- 🔭 I’m currently working on Android Kotlin, IOT
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on IOT
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Android, Java, arduino C
 - 📫 How to reach me: [Grindewald1900](grindewald1504@gmail.com)
 - 😄 Pronouns: ...Mr.Yee  
