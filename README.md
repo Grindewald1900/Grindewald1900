@@ -38,6 +38,7 @@ Now I'm a graduate student of Computer Science
 * **Game Design**: Unity3d...
 
 ### I'm interested in 😄
+* **Robot**: Robot with ROS and 3d Printer...
 * **IOT**: Building and home automation, Smart home, Bluetooth mesh networking, Indoors positioning...
 * **Machine Learning**: CNN, RNN, Data Mining...
 * **3d modeling**: Autodesk Maya3d...    
@@ -45,9 +46,9 @@ Now I'm a graduate student of Computer Science
 
 
 - 🔭 I’m currently working on Android Kotlin, IOT
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on IOT
-- 💬 Ask me about Android, Java, arduino C
+- 🌱 I’m currently learning ROS
+- 👯 I’m looking to collaborate on Robot and IOT
+- 💬 Ask me about Android, Java, IOT
 - 📫 How to reach me: [Grindewald1900](grindewald1504@gmail.com)
 - 😄 Pronouns: ...Mr.Yee  
 
