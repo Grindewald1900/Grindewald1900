@@ -24,30 +24,32 @@
 
 This is **Grindewald1900** ✨  
 
-Now I'm a graduate student of Computer Science  
+Now I'm a graduate student of Computer Science and expected to graduate on Sep 2021. Any offer about Inte
 
 
 
 ### My Skills ⚡  
-* **Programming language**: Java, Kotlin, C, C#, Python, HTML/CSS, XML, SQL
-* **Mobile app development**:  Android, IOS
+* **Programming language**: Java, Kotlin, C, C#, Python, HTML/CSS, XML, JavaScript, SQL
+* **Mobile app development**:  Android, React Native
 * **Frontend designing**: WordPress, Android customized view...
-* **IOT**: Raspberry Pi, Arduino, all kinds of sensors  
-* **Google API**: Map API, TTS & STT API...
-* **Database**: MySQL, SQLite, Firebase
+* **IOT**: Raspberry Pi, Arduino, ROS 
+* **Cloud Service**: Work with AWS, Google Cloud Platform 
+* **Database**: MySQL, SQLite, Firebase(NoSQL)
 * **Game Design**: Unity3d...
 
 ### I'm interested in 😄
+* **React Native**: Also Alibaba Weex and Google Flutter
 * **Robot**: Robot with ROS and 3d Printer...
 * **IOT**: Building and home automation, Smart home, Bluetooth mesh networking, Indoors positioning...
 * **Machine Learning**: CNN, RNN, Data Mining...
 * **3d modeling**: Autodesk Maya3d...    
+* **Image/Video Process**: Adobe PR(Premiere), AE(After Effects), PS(Photoshop)
 
 
 
-- 🔭 I’m currently working on Android Kotlin, IOT
-- 🌱 I’m currently learning ROS
-- 👯 I’m looking to collaborate on Robot and IOT
+- 🔭 I’m currently working on Android Kotlin
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Frontend designing
 - 💬 Ask me about Android, Java, IOT
 - 📫 How to reach me: [Grindewald1900](grindewald1504@gmail.com)
 - 😄 Pronouns: ...Mr.Yee  
