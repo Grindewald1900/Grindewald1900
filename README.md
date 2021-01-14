@@ -24,7 +24,7 @@
 
 This is **Grindewald1900** ✨  
 
-Now I'm a graduate student of Computer Science and expected to graduate on Sep 2021. Any offer about Inte
+Now I'm a graduate student of Computer Science and expected to graduate on Sep 2021.
 
 
 
