@@ -59,6 +59,9 @@ Now I'm a graduate student of Computer Science and expected to graduate on Sep 2
 
 [![Github stats](https://github-readme-stats-umber-mu.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
 
+### My Recent Works ✨
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=GoBishop)](https://github.com/Grindewald1900/GoBishop)
+
 [home]:Grindewald1900/Grindewald1900
 
 [my-url]: https://github.com/Grindewald1900/Grindewald1900
