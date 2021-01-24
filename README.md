@@ -24,15 +24,16 @@
 
 This is **Grindewald1900** ✨  
 
-Now I'm a graduate student of Computer Science and expected to graduate on Sep 2021.
+Now I'm a graduate student of Computer Science and expected to graduate in 2021. Any question or coorperative willingness, feel free to contact with me.
 
 
 
 ### My Skills ⚡  
-* **Programming language**: Java, Kotlin, C, C#, Python, HTML/CSS, XML, JavaScript, SQL
+* **Programming language**: Java, Kotlin, C, C#, Python, Golang, HTML/CSS, XML, JavaScript, SQL
 * **Mobile app development**:  Android, React Native
 * **Frontend designing**: WordPress, Android customized view...
 * **IOT**: Raspberry Pi, Arduino, ROS 
+* **Server** Java/Go web server
 * **Cloud Service**: Work with AWS, Google Cloud Platform 
 * **Database**: MySQL, SQLite, Firebase(NoSQL)
 * **Game Design**: Unity3d...
@@ -41,9 +42,7 @@ Now I'm a graduate student of Computer Science and expected to graduate on Sep 2
 * **React Native**: Also Alibaba Weex and Google Flutter
 * **Robot**: Robot with ROS and 3d Printer...
 * **IOT**: Building and home automation, Smart home, Bluetooth mesh networking, Indoors positioning...
-* **Machine Learning**: CNN, RNN, Data Mining...
 * **3d modeling**: Autodesk Maya3d...    
-* **Image/Video Process**: Adobe PR(Premiere), AE(After Effects), PS(Photoshop)
 
 
 
