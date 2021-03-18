@@ -33,7 +33,6 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
@@ -59,7 +58,6 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
 
