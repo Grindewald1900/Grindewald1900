@@ -24,7 +24,7 @@
 
 This is **Grindewald1900** ✨  
 
-Now I'm a graduate student of Computer Science and expected to graduate in 2021. Any question or coorperative willingness, feel free to contact with me.
+Now I'm a graduate student of Computer Science and expected to graduate in 2021. Any question or willingness to cooperate, feel free to contact with me.
 
 
 ### My Stack ⚡
