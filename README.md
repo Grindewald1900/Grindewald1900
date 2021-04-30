@@ -81,7 +81,7 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Frontend designing
 - 💬 Ask me about Android, Java, IOT
-- 📫 How to reach me: [Grindewald1900](grindewald1504@gmail.com)
+- 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
 - 😄 Pronouns: ...Mr.Yee  
 
 <!-- add &hide=language to hide certain languages in the chart-->
