@@ -85,9 +85,9 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 - 😄 Pronouns: ...Mr.Yee  
 
 <!-- add &hide=language to hide certain languages in the chart-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact)](https://github.com/Grindewald1900)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess)](https://github.com/Grindewald1900)  
 
-[![Github stats](https://github-readme-stats-umber-mu.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
 
 ### My Recent Works ✨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=SherEats)](https://github.com/Grindewald1900/SherEats)
