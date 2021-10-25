@@ -28,41 +28,42 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 
 
 ### My Stack ⚡
+<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <code><img height="50" src="https://www.tutorialspoint.com/internet_of_things/images/contiki.jpg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
 
 
 
 
-
+<!-- 
 ### I'm interested in 😄
 <code><img height="50" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/weex.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -73,16 +74,15 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 
+ -->
 
 
 
-
-- 🔭 I’m currently working on Android, Flutter, Firebase
+- 🔭 I’m currently working on Android Native, Jetpack, Firebase
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Frontend designing
-- 💬 Ask me about Android, Java, IOT
 - 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
-- 😄 Pronouns: ...Mr.Yee  
+- 😄 Pronouns: Yee  
 
 <!-- add &hide=language to hide certain languages in the chart-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess)](https://github.com/Grindewald1900)  
