@@ -5,18 +5,19 @@
 <p align="left">
     <a href="" alt="Contributors">
         <img src="https://visitor-badge.glitch.me/badge?page_id=Grindewald1900.Grindewald1900" /></a>
+    <a href="https://wakatime.com/@62a8741d-035b-492c-99a5-85ec0da2f80d">
+        <img src="https://wakatime.com/badge/user/62a8741d-035b-492c-99a5-85ec0da2f80d.svg" alt="Total time coded since Dec 25 2021" /></a>
     <a href="https://github.com/Grindewald1900/Grindewald1900/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/Grindewald1900/Grindewald1900" /></a>
     <a href="https://github.com/Grindewald1900/Grindewald1900/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/Grindewald1900/Grindewald1900" /></a>
-    <a href="https://circleci.com/gh/Grindewald1900/Grindewald1900/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/Grindewald1900/Grindewald1900/master" alt="build status"></a>
     <a href="https://github.com/Grindewald1900/Notebook/blob/master/LICENSE.txt">
         <img src="https://img.shields.io/badge/license-MIT-green"
             /></a> 
     <a href="https://www.linkedin.com/in/yee-ren-8b63a21a2/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
             /></a>
+
 </p>
 
 
