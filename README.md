@@ -33,7 +33,7 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 - 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
 - 😄 Pronouns: Yee  
 
-<br></br>
+
 ### My Stack ⚡
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -81,15 +81,21 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 
 
 
+
+
+
+
+### My Recent Works ✨
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=SherEats)](https://github.com/Grindewald1900/SherEats)
+
 <!-- add &hide=language to hide certain languages in the chart-->
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
 </p>
 
-
-### My Recent Works ✨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=SherEats)](https://github.com/Grindewald1900/SherEats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [home]:Grindewald1900/Grindewald1900
 
