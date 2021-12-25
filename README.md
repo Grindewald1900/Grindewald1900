@@ -20,45 +20,48 @@
 </p>
 
 
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is **Grindewald1900** ✨  
 
 Now I'm a graduate student of Computer Science and expected to graduate in 2021. Any question or willingness to cooperate, feel free to contact with me.
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<br></br>
+- 🔭 I’m currently working on Android Native, Jetpack, Firebase
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Frontend designing
+- 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
+- 😄 Pronouns: Yee  
 
-
+<br></br>
 ### My Stack ⚡
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-<code><img height="50" src="https://www.tutorialspoint.com/internet_of_things/images/contiki.jpg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
+
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+<code><img height="40" src="https://www.tutorialspoint.com/internet_of_things/images/contiki.jpg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
 
 
 
@@ -72,22 +75,18 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
-
  -->
 
 
 
-- 🔭 I’m currently working on Android Native, Jetpack, Firebase
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Frontend designing
-- 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
-- 😄 Pronouns: Yee  
+
 
 <!-- add &hide=language to hide certain languages in the chart-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess)](https://github.com/Grindewald1900)  
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
+</p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue)](https://github.com/Grindewald1900)  
 
 ### My Recent Works ✨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=SherEats)](https://github.com/Grindewald1900/SherEats)
