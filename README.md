@@ -95,6 +95,9 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [home]:Grindewald1900/Grindewald1900
