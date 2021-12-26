@@ -95,6 +95,7 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
 </p>
 
+**My coding activity for last 7 days**
 <!--START_SECTION:waka-->
 ```text
 Kotlin   4 hrs 26 mins   ██████████████░░░░░░░░░░░   55.80 % 
