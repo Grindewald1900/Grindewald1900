@@ -97,7 +97,10 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin   4 hrs 26 mins   ██████████████░░░░░░░░░░░   55.80 % 
+XML      2 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 % 
+Java     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+SQL      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 <!--END_SECTION:waka-->
 
