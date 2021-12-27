@@ -91,13 +91,13 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 
 <!-- add &hide=language to hide certain languages in the chart-->
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue&hide_border=true" />
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
+  <img height="180em" width ="400em"src="https://github-readme-stats.vercel.app/api?username=Grindewald1900&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+  <img height="160em" width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grindewald1900&layout=compact&exclude_repo=Unity3d-Game-Design,WizardChess&theme=vue&hide_border=true"/> 
 </p>
 
 
 <p>
-  <img height="180em" width = "450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grindewald1900&theme=vue&hide_border=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grindewald1900&theme=vue&hide_border=true" />
   <img height="160em" width="400em"  src="https://wakatime.com/share/@Grindewald1900/00641e9f-e50d-4df4-8d69-4c95ca147288.png" />
 </p>
 
