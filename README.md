@@ -98,10 +98,10 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 **My coding activity for last 7 days**
 <!--START_SECTION:waka-->
 ```text
-Kotlin   4 hrs 26 mins   ██████████████░░░░░░░░░░░   55.80 % 
-XML      2 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 % 
-Java     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-SQL      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Kotlin   13 hrs 33 mins  ████████████████░░░░░░░░░   64.58 % 
+XML      5 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.86 % 
+Java     1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+SQL      59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 <!--END_SECTION:waka-->
 
