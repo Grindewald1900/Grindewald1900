@@ -11,13 +11,15 @@
         <img src="https://img.shields.io/github/contributors/Grindewald1900/Grindewald1900" /></a>
     <a href="https://github.com/Grindewald1900/Grindewald1900/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/Grindewald1900/Grindewald1900" /></a>
-    <a href="https://github.com/Grindewald1900/Notebook/blob/master/LICENSE.txt">
-        <img src="https://img.shields.io/badge/license-MIT-green"
+    <a href="https://www.youtube.com/channel/UC1RKu9gWG_JPQKy6cnURV1w">
+        <img src="https://img.shields.io/badge/video-youtube-red"
             /></a> 
     <a href="https://www.linkedin.com/in/yee-ren-8b63a21a2/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
             /></a>
-
+     <a href="https://github.com/Grindewald1900/Notebook/blob/master/LICENSE.txt">
+        <img src="https://img.shields.io/badge/license-MIT-green"
+            /></a> 
 </p>
 
 
