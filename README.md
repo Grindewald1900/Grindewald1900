@@ -48,13 +48,11 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="40" src="https://www.runoob.com/wp-content/uploads/2015/07/restful.gif"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <code><img height="40" src="https://www.tutorialspoint.com/internet_of_things/images/contiki.jpg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
@@ -63,9 +61,13 @@ Now I'm a graduate student of Computer Science and expected to graduate in 2021.
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
 
+
+<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> -->
+<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code> -->
+<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> -->
+<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code> -->
 
 
 
