@@ -27,7 +27,7 @@
 
 This is **Grindewald1900** ✨  
 
-Now I'm a graduate student of Computer Science and expected to graduate in 2021. Any question or willingness to cooperate, feel free to contact with me.
+Now I just graduated with a Master's in Computer Science. I used to be a software engineer with 2+ years of experience in Android development. I'm passionate about programming, especially building projects that help people with their daily life. 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="300" />
 <br></br>
 - 🔭 I’m currently working on Android Native, Jetpack, Firebase
