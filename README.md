@@ -27,7 +27,7 @@
 
 This is **Grindewald1900** ✨  
 
-I just graduated with a Master's degree in Computer Science and will be working as an Android developer in GTA. I'm passionate about programming, especially building projects that benifit people with their daily life. 
+I'm a MCS new graduate and now working as a Infotainment System SDE at General Motors. 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="300" />
 <br></br>
 - 🔭 I’m currently working on Android Native, Jetpack, Firebase
