@@ -46,11 +46,13 @@ I'm a MCS new graduate and now working as a Infotainment System SDE at General M
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 
 
+<code><img height="40" src="https://media.licdn.com/dms/image/D4D12AQENbUQwgdGeRA/article-cover_image-shrink_423_752/0/1676482157646?e=1687996800&v=beta&t=8OGMyvrzQ8vkv2ZC4ncgvOW-eMy94qGrGttaSoEfHhk"></code>
+<code><img height="40" src="http://shutemov.com/wp-content/uploads/2017/11/69563903_3014898355248679_7611766459034763264_n-100x100.png"></code>
+<code><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v12ed1568ba335cc0f2889d02f1380222f752f997d826a87d8efa42899ed696be/bazel/images/lockup.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gradle_logo.png/240px-Gradle_logo.png"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="40" src="https://www.runoob.com/wp-content/uploads/2015/07/restful.gif"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
@@ -62,6 +64,8 @@ I'm a MCS new graduate and now working as a Infotainment System SDE at General M
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
+<code><img height="40" src="https://www.payoda.com/wp-content/uploads/2021/05/1_mbP4Bjrs8Hshx7IgjsUNSg.jpeg"></code>
+
 
 
 <!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> -->
@@ -69,7 +73,11 @@ I'm a MCS new graduate and now working as a Infotainment System SDE at General M
 <!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> -->
 <!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code> -->
 
+### My Certification ⚡
 
+<code><img height="40" src="https://www.mrcpa.org/wp-content/uploads/2019/02/DFSS-modified.jpg"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN7RLRTQXY881ivf8BTRzFpOxkdN6UGH52g&usqp=CAU"></code>
+<!-- <code><img height="40" src=""></code> -->
 
 <!-- 
 ### I'm interested in 😄
