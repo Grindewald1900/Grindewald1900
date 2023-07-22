@@ -109,8 +109,11 @@ I'm a MCS new graduate and now working as a Infotainment System SDE at General M
 
 
 <p>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grindewald1900&theme=vue&hide_border=true" />
-  <img height="160em" width="400em"  src="https://wakatime.com/share/@Grindewald1900/00641e9f-e50d-4df4-8d69-4c95ca147288.png" />
+  <img height="800em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grindewald1900&theme=vue&hide_border=true" />
+</p>
+
+<p>
+  <img height="400em" width="800em"  src="https://wakatime.com/share/@Grindewald1900/00641e9f-e50d-4df4-8d69-4c95ca147288.png" />
 </p>
 
 
