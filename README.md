@@ -27,26 +27,31 @@
 
 This is **Grindewald1900** ✨  
 
-I'm a MCS new graduate and now working as a Infotainment System SDE at General Motors. 
+Android/RTOS Engineer, passionate about video games and game design.
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="300" />
 <br></br>
-- 🔭 I’m currently working on Android Native, Jetpack, Firebase
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Frontend designing
+- 🔭 I’m currently working on QNX, RTOS, Qt
+- 🌱 I’m currently learning Rxcpp
+- 👯 I’m looking to collaborate on []
 - 📫 How to reach me: [Grindewald1900](mailto:grindewald1504@gmail.com)
-- 😄 Pronouns: Yee  
+
 
 
 ### My Stack ⚡
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
+
+
 <code><img height="55" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="55" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+<code><img height="55" src="https://docs.conan.io/1/_images/conan-qnx_neutrino_logo.png"></code>
+<code><img height="55" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+<code><img height="55" src="https://www.uctec.com/iot-products-en/wp-content/uploads/sites/7/2022/08/rtos-top_e.jpg"></code>
 
 
-<code><img height="40" src="https://media.licdn.com/dms/image/D4D12AQENbUQwgdGeRA/article-cover_image-shrink_423_752/0/1676482157646?e=1687996800&v=beta&t=8OGMyvrzQ8vkv2ZC4ncgvOW-eMy94qGrGttaSoEfHhk"></code>
+
 <code><img height="40" src="http://shutemov.com/wp-content/uploads/2017/11/69563903_3014898355248679_7611766459034763264_n-100x100.png"></code>
 <code><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v12ed1568ba335cc0f2889d02f1380222f752f997d826a87d8efa42899ed696be/bazel/images/lockup.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gradle_logo.png/240px-Gradle_logo.png"></code>
@@ -108,13 +113,8 @@ I'm a MCS new graduate and now working as a Infotainment System SDE at General M
 </p>
 
 
-<p>
-  <img height="800em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grindewald1900&theme=vue&hide_border=true" />
-</p>
 
-<p>
-  <img height="400em" width="800em"  src="https://wakatime.com/share/@Grindewald1900/00641e9f-e50d-4df4-8d69-4c95ca147288.png" />
-</p>
+
 
 
 [home]:Grindewald1900/Grindewald1900
