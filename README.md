@@ -104,7 +104,7 @@ Android/RTOS Engineer, passionate about video games and game design.
 
 
 ### My Recent Works ✨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=SherEats)](https://github.com/Grindewald1900/SherEats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grindewald1900&repo=Galactic-Frontier)](https://github.com/Grindewald1900/Galactic-Frontier)
 
 <!-- add &hide=language to hide certain languages in the chart-->
 <p>
